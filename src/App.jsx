@@ -563,8 +563,7 @@ const HomePage = () => {
              Software Engineer
             </h2>
             <p className="text-lg text-gray-700 max-w-2xl mx-auto" style={{ fontFamily: "'Open Sans', sans-serif" }}>
-              Crafting digital experiences with clean code and creative solutions. 
-              Passionate about building innovative applications that make a difference.
+              I’m passionate about building creative digital solutions — from websites and applications to innovative platforms that solve real-world challenges. With experience in React, Firebase, and modern web technologies, I love turning ideas into impactful projects that connect people and businesses.
             </p>
             
             <motion.div 
@@ -579,7 +578,7 @@ const HomePage = () => {
                 whileTap={{ scale: 0.98 }}
                 style={{ fontFamily: "'Poppins', sans-serif" }}
               >
-                <span className="relative z-10">View Portfolio</span>
+                <span className="relative z-10">View Work</span>
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-700 to-purple-700 opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
               </motion.button>
               
